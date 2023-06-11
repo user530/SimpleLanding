@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.433" height="66.58" viewBox="0 0 53.433 66.58">
+	<g id="Сгруппировать_6865" data-name="Сгруппировать 6865" transform="translate(1.5 2.114)">
+		<path id="Контур_2254" data-name="Контур 2254"
+			d="M-674.805,185.2c-10.367,12.314-20.2,23.33-43.733,23.33"
+			transform="translate(718.538 -185.2)" fill="none" stroke="#3c82f2"
+			stroke-linecap="round" stroke-linejoin="round" stroke-width="3"></path>
+		<path id="Контур_2255" data-name="Контур 2255" d="M-674.961,185.2h7.538v7.5"
+			transform="translate(711.156 -185.2)" fill="none" stroke="#3c82f2"
+			stroke-linecap="round" stroke-linejoin="round" stroke-width="3"></path>
+		<text id="_" data-name="€ " transform="translate(6.933 53.467)" fill="#3c82f2"
+			font-size="45" font-family="WorkSans-Bold, Work Sans" font-weight="700">
+			<tspan x="0" y="0">€</tspan>
+		</text>
+	</g>
+</svg>
